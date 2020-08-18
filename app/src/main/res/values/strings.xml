@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">齐大日报</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="news_fragment">文章</string>
+    <string name="photo_fragment">图片</string>
+    <string name="video_fragment">视频</string>
+    <string name="about_fragment">我</string>
+
+    <string name="default_text">77哈er</string>
+    <string name="source_news_text">日报</string>
+
+    <string name="string_about_tv_content">齐大日报安卓客户端-是一个资讯类新闻客户端，实时数据抓取新闻等相关功能客户端。</string>
+
+
+    <string name="news_home">文章中心</string>
+    <string name="picture_home">图片中心</string>
+    <string name="video_home">视频中心</string>
+    <string name="user_home">用户中心</string>
+    <string name="cancel">取消</string>
+    <string name="ok">确定</string>
+    <string name="dialog_fire_missiles">是否清除App缓存</string>
+    <string name="pick_toppings">字体设置</string>
+    <string name="text_size">textSize</string>
+
+    <string name="show_video_without_wifi">是否在非wifi状态下观看视频</string>
+
+</resources>
